@@ -4,10 +4,4 @@
 
 
 
-
-
-
-
-
-
-![decoder_ST_block](C:\Users\31549\Desktop\decoder_ST_block.svg)
+![decoder_ST_block](.\model_picture\decoder_ST_block.svg)
